@@ -1,6 +1,6 @@
 # vuextodo
 
-#### this is an app made with vuejs with vuer router and vuex for centralized state management 
+#### this is an app made with vuejs with vue router and vuex for centralized state management 
 
 #### install node and npm for this repo.
 
